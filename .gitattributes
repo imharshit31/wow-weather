@@ -1,10 +1,1 @@
-*.sol linguist-language=Dart
-*.csharp linguist-detectable=false  
-*.java linguist-detectable=false  
-*.js linguist-detectable=false  
-*.html linguist-detectable=false  
-*.xml linguist-detectable=false 
-*.cpp linguist-detectable=false  
-*.dart linguist-detectable=true  
-*.cmake linguist-detectable=false 
 
